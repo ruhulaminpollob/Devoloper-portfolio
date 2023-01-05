@@ -41,7 +41,7 @@ nav li{
     
 }
 .discription{
-    margin: 0 200px;
+    margin: 0 0 0 100px;
 }
 
 .banner-suptitle{
@@ -129,6 +129,10 @@ text-align: center;
     color: #757575;
     text-align: justify;
     padding: 5px;
+}
+.resume{
+    margin-top: 100px;
+    margin-bottom: 70px;
 }
 .resume-item{
     margin: 30px auto;
